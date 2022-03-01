@@ -34,4 +34,4 @@ Words go here its a good spot for words
 
 # Background
 
-The background to this project is the need to understand the demand for bicycles in a city with a blah blah.
+The background to this project is the need to understand the demand for bicycles in a city with a blah blah. In this section we will review the socio-ecological determinants of blah.
